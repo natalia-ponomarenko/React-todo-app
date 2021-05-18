@@ -4,7 +4,7 @@
 - This App is created to store todos with the ability to add/delete and check ready-done todos, the title of every todo can be changed on double click(enter to save changes, pressing escape returns the initial title). Also it has filters of todos(completed, active, all) and toggler of todos status.
 
 # Links
-- [DEMO LINK](https://natalia-ponomarenko.github.io/react-todo-app/)
+- [DEMO LINK](https://natalia-ponomarenko.github.io/React-todo-app/)
 
 - [Code](https://github.com/natalia-ponomarenko/react-todo-app/tree/main)
 
